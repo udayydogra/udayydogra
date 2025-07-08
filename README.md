@@ -35,11 +35,11 @@
 
 ### 📊 GitHub Stats
 
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaydogra204&show_icons=true&theme=radical)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayydogra&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaydogra204&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udayydogra&theme=radical)
 
 ---
 
