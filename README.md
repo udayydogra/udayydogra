@@ -35,27 +35,27 @@
 
 ## 📊 GitHub Stats
 
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaydogra204&show_icons=true&theme=radical)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayydogra&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udaydogra204&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udayydogra&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaydogra204&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udayydogra&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophy Cabinet
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=udaydogra204&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=udayydogra&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=udaydogra204&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=udayydogra&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -92,15 +92,15 @@
 
 ## 🎧 Now Playing on Spotify
 
-[![Spotify](https://novatorem-udaydogra204.vercel.app/api/spotify)](https://open.spotify.com/user/your-user-id)
+[![Spotify](https://novatorem-udayydogra.vercel.app/api/spotify)](https://open.spotify.com/user/your-user-id)
 
-> ⚙️ Set this up using [novatorem](https://github.com/novatorem/novatorem) and Spotify API.
+> ⚙️ Requires Novatorem + Spotify API integration.
 
 ---
 
 ## 🧩 Dev Card
 
-<a href="https://app.daily.dev/udaydogra204">
+<a href="https://app.daily.dev/udayydogra">
   <img src="https://api.daily.dev/devcards/your-devcard-id.svg" width="400" alt="Uday Dogra's Dev Card"/>
 </a>
 
@@ -108,13 +108,13 @@
 
 ## 📅 GitHub Snake Contribution Animation
 
-![snake gif](https://github.com/udaydogra204/udaydogra204/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/udayydogra/udayydogra/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📟 Visitor Counter
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=udaydogra204)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=udayydogra)
 
 ---
 
@@ -122,9 +122,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:udaydogra204@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/udaydogra204)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/udayydogra)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-user-id)
 
 ---
 
-<p align="center">Made with ❤️ by Uday Dogra | Last updated automatically with GitHub Actions</p>
+<p align="center">Made with ❤️ by Uday Dogra | Auto-updating via GitHub Actions</p>
