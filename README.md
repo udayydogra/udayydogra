@@ -12,7 +12,7 @@
 - 🔭 Working on: Typing Tutor App, Brute-force GUI, Firebase Projects  
 - 🌱 Learning: React, AWS, TailwindCSS  
 - 💬 Ask me about: Python, C, Linux, Web Security  
-- 📫 Reach me at: udaydogra204@gmail.com  
+- 📫 Reach me at: workforudaydogra@gmail.com  
 - 🕓 I start my day at **4 AM** to learn and build cool stuff  
 - 🌍 Based in: India 🇮🇳  
 
